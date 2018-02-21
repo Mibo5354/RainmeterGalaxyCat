@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg2"
+   height="1080"
+   width="1920"
+   version="1.1">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="maintext"
+     style="font-style:normal;font-weight:normal;font-size:172px;font-family:GalanoGrotesqueDEMO-Bold;fill:#ff0000"
+     aria-label="WED">
+    <path
+       id="path8"
+       style="font-style:normal;font-weight:normal;font-size:172px;font-family:GalanoGrotesqueDEMO-Bold;fill:#ff0000"
+       d="M 221.324,74.76 H 192.084 L 171.96,147.344 152.18,74.76 H 125.176 L 105.396,147.344 85.272,74.76 H 56.204 L 89.056,190 H 119.328 L 138.764,118.792 158.028,190 H 188.472 Z" />
+    <path
+       id="path10"
+       style="font-style:normal;font-weight:normal;font-size:172px;font-family:GalanoGrotesqueDEMO-Bold;fill:#ff0000"
+       d="M 322.05687,165.576 H 260.65287 V 143.904 H 316.55288 V 120.856 H 260.65287 V 99.184 H 321.54087 V 74.76 H 232.27287 V 190 H 322.05687 Z" />
+    <path
+       id="path12"
+       style="font-style:normal;font-weight:normal;font-size:172px;font-family:GalanoGrotesqueDEMO-Bold;fill:#ff0000"
+       d="M 339.77287,74.76 V 190 H 385.35287 C 404.10087,190 419.40888,184.84 431.10487,174.176 442.62887,163.512 448.47687,149.58 448.47687,132.38 448.47687,115.18 442.62887,101.42 431.10487,90.756 419.40888,80.092 404.27287,74.76 385.35287,74.76 Z M 368.15287,165.404 V 99.356 H 384.32087 C 394.98487,99.356 403.58487,102.452 410.12087,108.472 416.65688,114.492 419.92487,122.404 419.92487,132.38 419.92487,142.356 416.65688,150.44 410.12087,156.46 403.58487,162.48 394.98487,165.404 384.32087,165.404 Z" />
+  </g>
+</svg>
